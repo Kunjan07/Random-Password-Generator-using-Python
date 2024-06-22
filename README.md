@@ -11,13 +11,13 @@ Code Explanation
 The script uses the random library to generate random numbers and combines them with user input to create a password.
 
 ## Example Output
-Here is an example of how the script might generate a password:
-
-Welcome to the PyPassword Generator!
-How many letters would you like in your password?
-4
-How many symbols would you like?
-2
-How many numbers would you like?
-2
-Your password is: 0x$Ii(K1
+Here is an example of how the script generates a password:  
+  
+Welcome to the PyPassword Generator!  
+How many letters would you like in your password?  
+4  
+How many symbols would you like?  
+2  
+How many numbers would you like?  
+2  
+Your password is: 0x$Ii(K1  
